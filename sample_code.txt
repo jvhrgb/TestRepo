@@ -1,11 +1,8 @@
 print("Hello World!")
 
-// random comment
-
 ##### MAIN FEATURE #####
 line of code
 line of code
 line of code
-line of code (buggy)
 line of code
 ########################
